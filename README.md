@@ -1,1 +1,2 @@
-# functional-canculator
+# Calculater-project
+ public
